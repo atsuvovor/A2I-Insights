@@ -36,4 +36,11 @@ streamlit run dashboards_demo.py
 
 ---
 
+## 📫 Author
+Atsu Vovor  
+Consultant, Data & Analytics    
+✉️ atsu.vovor@bell.net    
+🔗 <a href="https://www.linkedin.com/in/atsu-vovor-mmai-9188326/" target="_blank">LinkedIn</a> | <a href="https://atsuvovor.github.io/projects_portfolio.github.io/" target="_blank">GitHub</a> | <a href="https://public.tableau.com/app/profile/atsu.vovor8645/vizzes" target="_blank">Tableau Portfolio</a>    
+📍 Mississauga ON      
 
+### Thank you for visiting!🙏
