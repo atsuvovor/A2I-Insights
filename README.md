@@ -35,7 +35,6 @@ streamlit run dashboards_demo.py
 * [Explore A2I-Insights →](./)
 
 
-
 ## 📫 Author
 Atsu Vovor  
 Consultant, Data & Analytics    
