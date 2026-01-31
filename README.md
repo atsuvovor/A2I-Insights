@@ -1,13 +1,16 @@
-# A2I-Insights — Auto-Generated Dashboards
 
-<p>
+<h1 align="center">A2I-Insights — Auto-Generated Dashboards</h1>
+
+<p align="center">
+  
   <img src="https://github.com/atsuvovor/A2I-Insights/blob/main/images/A2I-Insights.png" 
        alt="Centered Image" 
        style="width: 70%; height: auto;">
 </p>
 
 
-**Purpose:**
+**Purp
+ose:**
 A2I-Insights provides **executive dashboards and automated KPI reporting**, enabling data-driven decision-making across enterprise operations and cybersecurity workflows.
 
 **Features:**
